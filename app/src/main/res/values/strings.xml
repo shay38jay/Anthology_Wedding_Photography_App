@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Anthology Wedding Photography App</string>
+    <string name="action_setting"></string>
+    <string name="txtContact">Contact us at anthology@wed.com</string>
+    <string name="todo">TODO</string>
+</resources>
